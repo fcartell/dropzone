@@ -1,4 +1,4 @@
 <?php
 define("FACEBOOK_PAGE_ACCESS_TOKEN", "Insert here");
-define("FACEBOOK_PAGE_ID", "Insert here");
+define("FACEBOOK_PAGE_ID", "114826199945151");
 define("FACEBOOK_VALIDATION_TOKEN", "123456");
